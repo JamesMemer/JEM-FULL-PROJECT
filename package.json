@@ -1,0 +1,19 @@
+{
+  "name": "jem-full-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.2",
+    "discord.js": "^13.8.0",
+    "express": "^4.18.1",
+    "parse-ms": "^3.0.0"
+  }
+}
